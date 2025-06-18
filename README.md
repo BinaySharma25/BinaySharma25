@@ -1,5 +1,23 @@
 # 💫 About Me:
-I am Binay Kumar a passionate Web/Software Developer. 
+Hi, I'm Binay Kumar, currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
+
+--Skills:
+
+● Frontend: HTML, CSS, JavaScript, Responsive Web Design.
+● Backend: Basic Node.js, MongoDB, API Integration.
+● Tools & Technologies: Git, GitHub, VS Code.
+● Other: Problem Solving, Basic AI API Usage.
+
+ --Some of the projects I've worked on include:
+
+● Weather App – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API. 
+
+● AI Image Generator – A creative tool that generates images from text prompts using an AI API, showcasing the potential of AI in visual content creation.
+
+● Portfolio Website – A personal portfolio to showcase my skills, projects, and background, designed with a clean UI and smooth user interaction.
+
+I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. 
+Always open to collaboration and new opportunities to grow!
 
 
 ## 🌐 Socials:
