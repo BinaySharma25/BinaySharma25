@@ -21,6 +21,9 @@ Always open to collaboration and new opportunities to grow!
 
 ● Portfolio Website – A personal portfolio to showcase my skills, projects, and background, designed with a clean UI and smooth user interaction.
 
+●Web Music Player - A 🎧 Web Music Player that allows users to enjoy their favorite tracks right from the browser with a smooth and interactive interface.
+                    🔗 Live Demo:[(https://web-music-playerbinay.netlify.app/)]
+
 
 
 
