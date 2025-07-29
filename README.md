@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Binay Kumar.</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinaySharma25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
 <br>
 --Skills:<br>
@@ -20,9 +24,6 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. 
 Always open to collaboration and new opportunities to grow!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BinaySharma25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 
 
