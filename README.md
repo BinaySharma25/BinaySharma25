@@ -15,12 +15,12 @@ Always open to collaboration and new opportunities to grow!
 
 --Some of the projects I've worked on include:
 
-● Weather App – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API.<br>
-                     🌐 Live Project:[https://weather-app-binay.netlify.app/]
+● <b>Weather App</b> – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API.<br>
+                     🌐 Live Project:[https://weather-app-binay.netlify.app/]<br>
 ● AI Image Generator – A creative tool that generates images from text prompts using an AI API, showcasing the potential of AI in visual content creation.<br>
-                     🌐 Live Project:[https://ai-image-generator-binay.netlify.app/]
+                     🌐 Live Project:[https://ai-image-generator-binay.netlify.app/]<br>
 ● Notes Web App - A Notes App that allows users to easily create, view, and delete notes — all stored in the browser using localStorage, so your data stays even after refreshing the page!<br>
-                     🌐 Live Project:[https://quick-notes-binay.netlify.app/]
+                     🌐 Live Project:[https://quick-notes-binay.netlify.app/]<br>
 
 ● Web Music Player - A 🎧 Web Music Player that allows users to enjoy their favorite tracks right from the browser with a smooth and interactive interface.<br>
                      🌐 Live Project:[https://web-music-playerbinay.netlify.app/]
