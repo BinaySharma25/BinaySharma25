@@ -8,6 +8,10 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 ● Tools & Technologies: Git, GitHub, VS Code.<br>
 ● Other: Problem Solving, Basic AI API Usage.
 <br>
+I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. <br>
+Always open to collaboration and new opportunities to grow!
+
+<br>
 <hr>
 
 --Some of the projects I've worked on include:
@@ -18,8 +22,6 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 
 ● Portfolio Website – A personal portfolio to showcase my skills, projects, and background, designed with a clean UI and smooth user interaction.
 
-I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. 
-Always open to collaboration and new opportunities to grow!
 
 
 
