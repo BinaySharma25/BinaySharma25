@@ -9,8 +9,7 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 <br>
 <hr>
 
-#Projects:
- --Some of the projects I've worked on include:
+--Some of the projects I've worked on include:
 
 ● Weather App – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API. 
 
