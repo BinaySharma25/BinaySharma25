@@ -7,10 +7,10 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 ● Backend: Basic Node.js, MongoDB, API Integration.<br>
 ● Tools & Technologies: Git, GitHub, VS Code.<br>
 ● Other: Problem Solving, Basic AI API Usage.
-<br>
+<br><br>
+
 I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. <br>
 Always open to collaboration and new opportunities to grow!
-
 <br>
 <hr>
 
