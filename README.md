@@ -5,18 +5,18 @@
 
 Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
 <br><br>
---Skills:<br>
-● Frontend: HTML, CSS, JavaScript, Responsive Web Design.<br>
-● Backend: Basic Node.js, MongoDB, API Integration.<br>
-● Tools & Technologies: Git, GitHub, VS Code.<br>
-● Other: Problem Solving, Basic AI API Usage.
+<b>--Skills</b>:<br>
+● <b>Frontend</b>: HTML, CSS, JavaScript, Responsive Web Design.<br>
+● <b>Backend</b>: Basic Node.js, MongoDB, API Integration.<br>
+● <b>Tools & Technologies</b>: Git, GitHub, VS Code.<br>
+● <b>Other</b>: Problem Solving, Basic AI API Usage.
 <br><br>
 I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. <br>
 Always open to collaboration and new opportunities to grow!
 <br>
 <hr>
 
---Some of the projects I've worked on include:
+<b>--Some of the projects I've worked on include</b>:
 
 ● <b>Weather App</b> – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API.<br>
 
