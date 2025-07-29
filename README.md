@@ -5,8 +5,11 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 --Skills:
 
 ● Frontend: HTML, CSS, JavaScript, Responsive Web Design.
+
 ● Backend: Basic Node.js, MongoDB, API Integration.
+
 ● Tools & Technologies: Git, GitHub, VS Code.
+
 ● Other: Problem Solving, Basic AI API Usage.
 
 
