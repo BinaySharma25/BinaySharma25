@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Binay Kumar.</h1>
 Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
 
---Skills:
 
+--Skills:
 ● Frontend: HTML, CSS, JavaScript, Responsive Web Design.
 
 ● Backend: Basic Node.js, MongoDB, API Integration.
@@ -11,7 +11,8 @@ Currently pursuing my Master's in Computer Applications (MCA), with a strong foc
 ● Tools & Technologies: Git, GitHub, VS Code.
 
 ● Other: Problem Solving, Basic AI API Usage.
-
+<br>
+<hr>
 
  --Some of the projects I've worked on include:
 
