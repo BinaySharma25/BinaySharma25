@@ -18,7 +18,9 @@ Always open to collaboration and new opportunities to grow!
 ● <b>Weather App</b> – A responsive web app that fetches real-time weather data using APIs, built with HTML, CSS,  JavaScript and API.<br>
 
 ● <b>AI Image Generator</b> – A creative tool that generates images from text prompts using an AI API, showcasing the potential of AI in visual content creation.<br>
+
 ● <b>Notes Web App</b> - A Notes App that allows users to easily create, view, and delete notes — all stored in the browser using localStorage, so your data stays even after refreshing the page!<br>
+
 ● <b>Web Music Player</b> - A 🎧 Web Music Player that allows users to enjoy their favorite tracks right from the browser with a smooth and interactive interface.<br>
 
 ## 🌐 Let's Connect:
