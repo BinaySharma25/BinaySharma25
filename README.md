@@ -19,6 +19,11 @@ Hi, I'm Binay Kumar, currently pursuing my Master's in Computer Applications (MC
 I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. 
 Always open to collaboration and new opportunities to grow!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BinaySharma25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Binay_sharma25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binaykumar25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binayku9424sharma@gmail.com) 
@@ -29,7 +34,4 @@ Always open to collaboration and new opportunities to grow!
 ![](https://nirzak-streak-stats.vercel.app/?user=BinaySharma25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BinaySharma25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binitrobinson&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
