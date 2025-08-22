@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/77258d23-e67e-46cb-bb92-949a9d09a233)
 <h1 align="center"><b>Hi 👋, I'm Binay Kumar.</b></h1>
 <h3 align="center">Full Stack Developer</h3>
 
