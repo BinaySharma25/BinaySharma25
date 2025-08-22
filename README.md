@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi 👋, I'm Binay Kumar.</b></h1>
-<div align="center">
+<div display="flex" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <h3 align="center">Full Stack Developer</h3>
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
