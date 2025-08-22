@@ -1,8 +1,8 @@
  <div align="center">
  <h1> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Hi 👋, I'm Binay Kumar. &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> </h1>
 </div>
-
 <h2 align="center">Full Stack Developer</h2>
+
 Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
 <br><br>
 <b>--Skills</b>:<br>
