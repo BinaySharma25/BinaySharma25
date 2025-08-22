@@ -3,7 +3,6 @@
 </div>
 
 <h2 align="center">Full Stack Developer</h2>
-
 Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
 <br><br>
 <b>--Skills</b>:<br>
