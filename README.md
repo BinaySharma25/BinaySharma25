@@ -4,17 +4,17 @@
 
 <h2 align="center">Full Stack Developer</h2>
 
-&nbsp; Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
-&nbsp; <br><br>
-&nbsp; <b>--Skills</b>:<br>
-&nbsp; ● <b>Frontend</b>: HTML, CSS, JavaScript, Responsive Web Design.<br>
-&nbsp; ● <b>Backend</b>: Basic Node.js, MongoDB, API Integration.<br>
-&nbsp; ● <b>Tools & Technologies</b>: Git, GitHub, VS Code.<br>
-&nbsp; ● <b>Other</b>: Problem Solving, Basic AI API Usage.
-&nbsp; <br><br>
-&nbsp; I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. <br>
-&nbsp; Always open to collaboration and new opportunities to grow!
-&nbsp; <br>
+Currently pursuing my Master's in Computer Applications (MCA), with a strong focus on web development and practical application of modern technologies. 
+<br><br>
+<b>--Skills</b>:<br>
+● <b>Frontend</b>: HTML, CSS, JavaScript, Responsive Web Design.<br>
+● <b>Backend</b>: Basic Node.js, MongoDB, API Integration.<br>
+● <b>Tools & Technologies</b>: Git, GitHub, VS Code.<br>
+● <b>Other</b>: Problem Solving, Basic AI API Usage.
+<br><br>
+I'm passionate about learning, problem-solving, and using technology to make a meaningful impact. <br>
+Always open to collaboration and new opportunities to grow!
+<br>
 <hr>
 
 <b>--Some of the projects I've worked on include</b>:
